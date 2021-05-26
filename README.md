@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a website
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on someone who can guide me
-- 📫 How to reach me ...
+- 📫 How to reach me? Just email on mfsolano11@gmail.com.
 
 <!---
 mfsolano11/mfsolano11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
