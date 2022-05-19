@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfsolano11
-- 👀 I’m interested in making a website
+- 👀 I’m interested in making a web projects
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on someone who can guide me
 - 📫 How to reach me? Just email on mfsolano11@gmail.com.
